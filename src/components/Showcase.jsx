@@ -35,7 +35,7 @@ const Showcase = () => {
 					playsInline
 				/>
 				<div className="mask">
-					<img src="/mask-logo.svg" />
+					<img src="/mask-logo.svg" alt="" aria-hidden="true" />
 				</div>
 			</div>
 			<div className="content">
